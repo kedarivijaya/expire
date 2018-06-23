@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"vijaya",
+    "email":"kedarivijaya39@gmail.com",
+    "mobile":"+91-9441660894"
+  },
+  "Education":[
+    {
+     "degree":"B.Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","79%"]
+    },
+{
+"degree":"Intermediate",
+ "institute":"Sri Chaitanya Junior College",
+ "data":["2013-15","80%"]
+},
+{
+  "degree":"S.S.C",
+   "institute":"R.B.P.S",
+   "data":["2012-13","79%"]
+ }
+]
+}
