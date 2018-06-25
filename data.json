@@ -4,21 +4,50 @@
     "email":"kedarivijaya39@gmail.com",
     "mobile":"+91-9441660894"
   },
+  "career":{
+    "Info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing myskills towards the growth of the organization"
+  },
   "Education":[
     {
      "degree":"B.Tech",
       "institute":"PSCMR",
-      "data":["2015-19","79%"]
+      "data":["2015-19","60%"]
     },
 {
 "degree":"Intermediate",
  "institute":"Sri Chaitanya Junior College",
- "data":["2013-15","80%"]
+ "data":["2013-15","75%"]
 },
 {
   "degree":"S.S.C",
    "institute":"R.B.P.S",
-   "data":["2012-13","79%"]
+   "data":["2012-13","77%"]
  }
+],
+"achivements":[
+  {
+    "name":"awarded as <b>consolation<sup></sup>Prize</b> in <q> self-defence</q>"
+  },
+  {
+   "name":"Got <strong>3<sup>rd</sup>Prize</strong> for <q> PPT Presentation </q>"
+  }
+],
+"skills":[
+  {
+    "name":"Programming Languages",
+    "data":["c++","javascript","php"]
+  },
+  {
+  "name":"DataBases",
+  "data":["Oracle","mysql"]
+},
+{
+"name":"Web Technologies",
+"data":["CSS","HTML"]
+},
+{
+"name":" Libraries and FrameWorks",
+"data":["jQuery","cpdeIgniter"]
+}
 ]
 }
